@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/designMode-02singleton" />
+    <file type="web" url="file://$PROJECT_DIR$/designMode" />
     <file type="web" url="file://$PROJECT_DIR$/designMode-03prototype" />
   </component>
   <component name="MavenProjectsManager">
@@ -14,6 +14,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/designMode-01factory/pom.xml" />
+        <option value="$PROJECT_DIR$/designMode-03prototype/pom.xml" />
       </set>
     </option>
   </component>

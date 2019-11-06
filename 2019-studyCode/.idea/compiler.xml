@@ -6,9 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="_01factory" />
+        <module name="_02singleton" />
+        <module name="_03prototype" />
         <module name="designMode02singleton" />
         <module name="designMode03prototype" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="designMode-03prototype" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
