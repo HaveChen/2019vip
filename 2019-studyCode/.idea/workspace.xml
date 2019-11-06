@@ -1,40 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cecd1fb8-37fc-4c9f-a08d-48ce2d196fb1" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/designMode/01factory/_01factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designMode/01factory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designMode/02singleton/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designMode/03prototype/_03prototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designMode/03prototype/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designMode/03prototype/src/main/java/you/simple/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designMode/03prototype/src/main/java/you/simple/PrototypeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designMode/03prototype/src/main/java/you/simple/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cecd1fb8-37fc-4c9f-a08d-48ce2d196fb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/designMode/readME.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-01factory/designMode01factory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-01factory/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-01factory/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-01factory/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-02singleton/designMode02singleton.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-02singleton/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designMode/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-02singleton/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-02singleton/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/designMode03prototype.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/src/main/java/havechen/prototype/simple/Prototype.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/src/main/java/havechen/prototype/simple/PrototypeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/src/main/java/havechen/prototype/simple/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/target/classes/META-INF/designMode03prototype.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/target/test-classes/META-INF/designMode03prototype.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/target/test-classes/simple/Prototype.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/target/test-classes/simple/PrototypeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designMode-03prototype/target/test-classes/simple/User.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/readME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readME.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -55,11 +24,27 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="study2019" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readME.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/designMode/readME.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -138,6 +123,7 @@
         <option value="$PROJECT_DIR$/designMode/03prototype/pom.xml" />
         <option value="$PROJECT_DIR$/designMode/03prototype/src/main/java/you/simple/PrototypeTest.java" />
         <option value="$PROJECT_DIR$/readME.txt" />
+        <option value="$PROJECT_DIR$/designMode/readME.txt" />
       </list>
     </option>
   </component>
@@ -175,27 +161,6 @@
               <item name="2019-studyCode" type="462c0819:PsiDirectoryNode" />
               <item name="designMode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="study2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019-studyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="designMode" type="462c0819:PsiDirectoryNode" />
-              <item name="03prototype" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019-studyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="designMode" type="462c0819:PsiDirectoryNode" />
-              <item name="03prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019-studyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="designMode" type="462c0819:PsiDirectoryNode" />
-              <item name="03prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -206,17 +171,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573010954214" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573011400700" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\111Chenyou学习\Java架构师之路\2019Vip\2019vip\2019-studyCode\designMode" />
       <recent name="F:\111Chenyou学习\Java架构师之路\2019Vip\2019vip\2019-studyCode\designMode\03prototype\src\main\java\you\simple" />
     </key>
   </component>
@@ -318,7 +284,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572938940179</updated>
       <workItem from="1572938946067" duration="7200000" />
-      <workItem from="1573010084436" duration="864000" />
+      <workItem from="1573010084436" duration="1297000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1573010195068</created>
@@ -327,35 +293,41 @@
       <option name="project" value="LOCAL" />
       <updated>1573010195068</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="目录结构调整">
+      <created>1573011007354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573011007354</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8064000" />
+    <option name="totallyTimeSpent" value="8497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38597432" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49906892" visible="true" weight="0.38597432" />
+      <window_info id="Structure" order="1" sideWeight="0.5009311" side_tool="true" weight="0.38597432" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5009311" side_tool="true" weight="0.38597432" />
       <window_info id="Learn" order="7" />
-      <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="Web" order="8" sideWeight="0.5009311" side_tool="true" weight="0.38597432" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49892932" visible="true" weight="0.3834673" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49892932" weight="0.3834673" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39954075" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946466" visible="true" weight="0.3295063" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010707" side_tool="true" visible="true" weight="0.3834673" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005353" side_tool="true" visible="true" weight="0.3295063" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946466" weight="0.26865673" />
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
@@ -380,7 +352,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="目录结构调整" />
+    <option name="LAST_COMMIT_MESSAGE" value="目录结构调整" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/design-prototype/pom.xml" />
@@ -457,7 +430,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readME.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designMode/readME.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
