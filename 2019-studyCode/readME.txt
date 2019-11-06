@@ -1,1 +1,1 @@
-designMode 设计模式目录  this
+designMode 设计模式目录
