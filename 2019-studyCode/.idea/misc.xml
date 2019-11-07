@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/01designMode/01factory" />
+    <file type="web" url="file://$PROJECT_DIR$/01designMode/02singleton" />
+    <file type="web" url="file://$PROJECT_DIR$/01designMode/03prototype" />
+    <file type="web" url="file://$PROJECT_DIR$/01designMode/04proxy" />
     <file type="web" url="file://$PROJECT_DIR$/designMode" />
     <file type="web" url="file://$PROJECT_DIR$/designMode-03prototype" />
   </component>

@@ -9,9 +9,7 @@
   <artifactId>study2019</artifactId>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>designMode-03prototype</module>
-    <module>designMode-01factory</module>
-    <module>designMode-02singleton</module>
+    <module>01designMode</module>
   </modules>
   <packaging>pom</packaging>
 
