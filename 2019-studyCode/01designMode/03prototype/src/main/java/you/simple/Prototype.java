@@ -1,4 +1,4 @@
-package java.you.simple;
+package main.java.you.simple;
 
 /*
  *chenyou

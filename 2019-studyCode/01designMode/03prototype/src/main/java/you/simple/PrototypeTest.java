@@ -1,4 +1,4 @@
-package java.you.simple;
+package main.java.you.simple;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,11 +14,17 @@ public class PrototypeTest {
     user.setName("Chenyou");
     user.setAddress("shenzhen");
     List hobbies = new ArrayList<String>();
+    hobbies.add("test");
     user.setHobbies(hobbies);
     User userClone = (User) user.clone();
-    //浅克隆模式，只是克隆地址而已
-    System.out.println("克隆后对比" + user.getAddress() == userClone.getAddress());
-
+    List h = userClone.getHobbies();
+    h.add("test2");
+    userClone.setHobbies(h);
+    //浅克隆模式，只是克隆引用而已
+    System.out.println(user.getHobbies().size());//size是2
+    System.out.println(userClone.getHobbies().size());//size也是2
+    //因为user.clone()是浅克隆，有引用对象的时候只是克隆的引用，指向同一个对象，当对象被修改时，引用是没有
+    //变化的，所以只要是引用指向这个被修改的对象，其他人修改的也会看上去生效。
+    //为了解决这一个问题，所以还提供了一直深克隆模式。
   }
-
 }
