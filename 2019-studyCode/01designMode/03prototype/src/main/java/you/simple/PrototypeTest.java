@@ -1,4 +1,4 @@
-package main.java.you.simple;
+package you.simple;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,13 +10,13 @@ import java.util.List;
 public class PrototypeTest {
 
   public static void main(String[] args) {
-    User user = new User();
+    main.java.you.simple.User user = new main.java.you.simple.User();
     user.setName("Chenyou");
     user.setAddress("shenzhen");
     List hobbies = new ArrayList<String>();
     hobbies.add("test");
     user.setHobbies(hobbies);
-    User userClone = (User) user.clone();
+    main.java.you.simple.User userClone = (main.java.you.simple.User) user.clone();
     List h = userClone.getHobbies();
     h.add("test2");
     userClone.setHobbies(h);

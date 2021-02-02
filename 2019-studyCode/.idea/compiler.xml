@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="01factory" />
         <module name="02singleton" />
-        <module name="03prototype" />
-        <module name="_04proxy" />
+        <module name="01factory" />
         <module name="designMode02singleton" />
+        <module name="03prototype" />
+        <module name="04proxy" />
         <module name="designMode03prototype" />
+        <module name="_04proxy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
