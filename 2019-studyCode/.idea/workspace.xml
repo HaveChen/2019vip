@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cecd1fb8-37fc-4c9f-a08d-48ce2d196fb1" name="Default Changelist" comment="目录结构调整">
-      <change beforePath="$PROJECT_DIR$/01designMode/03prototype/src/main/java/you/simple/PrototypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/01designMode/03prototype/src/main/java/you/simple/PrototypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cx.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +37,6 @@
         <option name="userSettingsFile" value="D:\work\repo\mvn-settings.xml" />
       </MavenGeneralSettings>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1358" />
-    <option name="height" value="1092" />
   </component>
   <component name="ProjectId" id="1nuiLvt5DXMJnJFDi4o1aHdrxMY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -178,7 +172,7 @@
       <workItem from="1572938946067" duration="7200000" />
       <workItem from="1573010084436" duration="1297000" />
       <workItem from="1573027442686" duration="17932000" />
-      <workItem from="1612246324819" duration="84000" />
+      <workItem from="1612246324819" duration="743000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1573010195068</created>
